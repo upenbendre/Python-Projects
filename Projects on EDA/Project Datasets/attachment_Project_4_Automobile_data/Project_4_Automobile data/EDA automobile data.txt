@@ -1,0 +1,16 @@
+Automobile data
+All conditions being same - which brand (make) is expensive
+Pricing vs Each other variable (Line graph, univariate, in a loop).
+
+Which brands don't have cars in certain ranges of specs.
+
+
+Low price
+High horsepower
+High city-mpg
+
+
+Correlation heatmap... (on certain fields - can it built for all against price, and all against city-mpg)?
+
+
+

@@ -1,0 +1,9 @@
+Serial,Gender,Age,Weight,Country
+1,0,21,78,IND
+2,0,34,87,IND
+3,,33,89,IND
+4,1,22,56,IND
+5,1,23,,IND
+6,0,34,65,
+7,0,45,77,SLK
+

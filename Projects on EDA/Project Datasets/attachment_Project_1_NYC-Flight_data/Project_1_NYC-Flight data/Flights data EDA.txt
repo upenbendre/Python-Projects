@@ -1,0 +1,74 @@
+
+During which time frames are most departure delays happening?
+Are there departure delays happening in one airport, when the other is doing fine?
+Average number of flights during the peak slot from each airport.
+Are there departure delays in one airport and early flights in another?
+Departure delays by carrier.
+Flights that caught up on delay. Delayed departure but scheduled arrival
+air time vs (Arrival - departure difference) - Need to adjust timezones.?
+
+Aircraft speed analysis:  distance/air time (by plane tail number and flight number, carrier) - Are aircrafts from a specific carrier, or specific planes flying faster?
+
+Top flight numbers and carriers delayed.
+
+
+%age of on time arrival by carrier, for flights departing from each of the 3 airports..
+
+Max flights landing in each airport per hour.
+
+Trace percentage of on time departed flights per day, over the year (or per week over a year).
+
+Number of flights per airport by day of week.
+
+
+Cluster analysis of flights delayed / not delayed (create column) - X vars - flight, tail num, Hour of departure, dayofweek?
+
+Adding new fields:
+Binning of delays (create dep delay and arr delay field). Create hours & minutes combined time field
+Adding fields (delayed / not delayed).
+
+
+Airport wise - No of flights departing per minute for each airport.
+
+Flight code wise - Is a specific flight getting delayed more often (Longest delays, and most number of delays).
+
+
+
+What we dont know - 
+
+1) Are some of them connecting flights that need to depart from a specific airport only, in which case it doesnt make sense to move them.
+2) Are some delays due to technical snags for which data is not available?
+3) Some flights have short time and more ATC time. Cannot tell whether they were circling at source or destination.
+
+
+Story: 
+Flights delayed on certain days of the year. Certain flights delayed more often.
+Flights delayed when departing during certain time intervals?
+Flight from a specific carrier delayed?
+Peak hours for each airport. Are more flights delayed at peak hour? No. of flights departing in that hour vs no. of flights 
+DO delays spiral and increase on a given day (dep delays).
+
+Do specific destinations have more arrival delays?
+
+Predictions:
+Are flights departing from specific airports, at specific times 
+
+
+
+Recommendations:
+Can some flights be moved from one airport to another?
+
+Mode (most frequently occuring) - Mode flight among all delayed flights.
+Distribution of delays... for each carrier or each airport
+
+
+
+
+
+
+
+Departure delays.
+Best airports in terms of time departure %.
+Aircraft speed analysis.
+On time arrival % analysis.
+Maximum number of flights headed to some particular destination.

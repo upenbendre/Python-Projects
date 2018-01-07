@@ -1,0 +1,28 @@
+Write down all EDA questions against all datasets. Complete preliminary analysis using matplotlib, seaborn etc.
+
+Manufacture proper fields for timestamp, delay etc.
+
+
+in Chandan's free tier. Install Python 2.7 and Anaconda and follow instructions to connect Tableau Desktop. Find some college ID. Install Tableau desktop.
+
+
+Facebook data:
+
+Do older people use less mobile and more www? Plot ratio of www to mobile Likes by over Age.
+Or a bar plot split by mobile and www likes.
+
+Box plots of number of friends of people
+Box plots overlaying them on number of friend requests initiated.
+
+Pair plots of Age vs Likes received
+friend count vs Likes received.
+Likes vs Likes received (color by gender).
+
+
+flights_by_hour
+
+Date of birth analysis
+Friend count analysis
+Tenure analysis
+Data transformations
+Frequency polygons, Boxplots.
